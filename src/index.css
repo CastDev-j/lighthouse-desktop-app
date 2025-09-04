@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.r3f {
+    touch-action: auto;
+}
